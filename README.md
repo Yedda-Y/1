@@ -7,6 +7,7 @@ This dataset contains information about students' adaptability to online educati
 
 # Data Description
 **File Name:** students_adaptbility_level_online_education.csv
+
 **Conlumns:**
 1. Education Level: The educational stage of the student.
 2. Institution Type: Whether the student studies at a private or public institution.
