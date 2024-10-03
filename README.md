@@ -15,7 +15,7 @@ This dataset contains information about students' adaptability to online educati
 # Varaible Descriptions
 | Variable Name       | Description                               | Data Type | Example Values                     |
 |---------------------|-------------------------------------------|-----------|------------------------------------|
-| **Gender**           | Gender of the student                     | String    | Boy, Girl                          |
+| **Gender**           | Gender of the student                     | String    | Boy, Girl                         |
 | **Age**              | Age group of the student                  | String    | 15-20, 21-25                       |
 | **Education Level**  | Educational stage of the student          | String    | School, College, University        |
 | **Institution Type** | Type of educational institution           | String    | Government, Non-Government         |
