@@ -5,10 +5,15 @@ This dataset contains information about students' adaptability to online educati
 
 * Learning Analytics/ Performance in Online Course/ Student Adaptability/ Remote Learning/ Digital Education/ Virtual Class/ Educational Technology/ Internet Access/ Network Quality/ Device Usage/ Learning Flexibility
 
-# File Description
+# File Descriptions
 **File Name:** students_adaptability_level_online_education.csv
 
+**Total Variables:** 14
+
 **Full size:** 11 columns, 1205 entries
+
+# Varaible Descriptions
+
 
 **Columns:**
 1. Education Level: The educational stage of the student.
@@ -24,17 +29,19 @@ This dataset contains information about students' adaptability to online educati
 11. Flexibility Level: The student's adaptability to online education.
 
 # Provenance
-**Sources:**
-Primary Dataset
+**Sources:** Primary Dataset
 
-**Collection Methodology:**
+**Collection Methodology:** Surveys
 
-Surveys
+**Version:** 1.0
 
 # How to Use the Data
 You can download the dataset from this repository or clone it directly to your local environment. The dataset is in CSV format, making it easy to load into data analysis tools like Python, R, or Excel.
 
+# License
 
+
+# Citation
 
 
 
