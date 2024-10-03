@@ -14,22 +14,22 @@ This dataset contains information about students' adaptability to online educati
 
 # Varaible Descriptions
 
-| Variable Name       | Description                               | Data Type | Example Values                     |
-|---------------------|-------------------------------------------|-----------|------------------------------------|
-| Gender              | Gender of the student                     | String    | Boy, Girl                          |
-| Age                 | Age group of the student                  | String    | 15-20, 21-25                       |
-| Education Level     | Educational stage of the student          | String    | School, College, University        |
-| Institution Type    | Type of educational institution           | String    | Government, Non-Government         |
-| IT Student          | Whether the student is an IT student      | String    | Yes, No                            |
-| Location            | Whether the student lives in a remote area| String    | Yes, No                            |
-| Load-shedding       | Impact of internet disruptions (if any)   | String    | Low, High                          |
-| Financial Condition | Financial status of the student           | String    | Poor, Mid, Rich                    |
-| Internet Type       | Type of internet connection               | String    | Wifi, Mobile Data                  |
-| Network Type        | Quality of network connection             | String    | 3G, 4G                             |
-| Class Duration      | Duration of online classes                | String    | 3 hours, 6 hours                   |
-| Self LMS            | Whether the student uses LMS independently| String    | Yes, No                            |
-| Device              | Device used for online learning           | String    | Mobile, Tab                        |
-| Adaptivity Level    | The adaptability level to online education| String    | Low, Moderate, High                |
+|     Variable                              |     Variable Name               |     Description                  | Measurement Unit  | Allowed Values  |
+|-------------------------------------------|---------------------------------|----------------------------------|-------------------|-----------------|
+| Gender                                    | Gender                          | Gender of the student            | Category   | Boy, Girl                  |
+| Age in years                              | Age                             | Age group of the student         | Numeric    | 11-15, 16-20, 21-25, 26-30 |
+| Educational level                         | Education Level                 | Educational stage of the student | Category   | School, College, University|
+| Educational Institution                   | Institution Type                | Type of educational institution  | Category   | Government, Non-Government |
+| Student majored in Information Technology | IT Student                      | Whether the student is an IT student | Category | Yes, No                  |
+| Living location                           | Location                        | Whether the student lives in town| Category    | Yes, No                   |
+| Load-shedding level                       | Load-shedding                   | Impact of internet disruptions (if any) | Category | Low, High             |
+| Financial condition level                 | Financial Condition             | Financial status of the student  | Category    | Poor, Mid, Rich           |
+| Internet type                             | Internet Type                   | Type of internet connection      | Category    | Wifi, Mobile Data         |
+| Network Type                              | Network Type                    | Quality of network connection    | Category    | 2G, 3G, 4G                |
+| Class duration in hours                   | Class Duration                  | Duration of online classes       | Numeric     | 0, 1-3 hours, 3-6 hours   |
+| Self LMS usage                            | Self LMS                        | Whether the student uses LMS independently     | Category    | Yes, No     |
+| Device type                               | Device                          | Device used for online learning  | Category    | Mobile, Tab, Computer     |
+| Adaptability level                        | Adaptivity Level                | The adaptability level to online education | Category | Low, Moderate, High |
 
 **Columns:**
 1. Education Level: The educational stage of the student.
