@@ -25,7 +25,6 @@ This dataset contains information about students' adaptability to online educati
 
 # Provenance
 **Sources:**
-
 Primary Dataset
 
 **Collection Methodology:**
