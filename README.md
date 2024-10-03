@@ -1,18 +1,14 @@
 # Student Adaptability Level in Online Learning
 
 # Description
-This dataset contains information about students' adaptability to online education based on factors such as their educational level, institution type, device type, financial condition, and flexibility level. The data helps in understanding how students from various backgrounds adapt to online learning environments, providing insights into how demographic and technological factors influence a student's ability to adapt to remote learning environments.
+This dataset contains information about students' adaptability to online education based on factors such as their educational level, institution type, device type, financial condition, and internet access. The data helps in understanding how students from various backgrounds adapt to online learning environments, providing insights into how demographic and technological factors influence a student's ability to adapt to remote learning environments.
 
 * Learning Analytics/ Performance in Online Course/ Student Adaptability/ Remote Learning/ Digital Education/ Virtual Class/ Educational Technology/ Internet Access/ Network Quality/ Device Usage/ Learning Flexibility
 
-**Methodology:**
-
-Data Collection Mode: N/A
-Taget Population: Students in carious educational institutions
-Time of Collection: N/A
-
-# Data Description
+# File Description
 **File Name:** students_adaptability_level_online_education.csv
+
+**Full size:** 11 columns, 1205 entries
 
 **Columns:**
 1. Education Level: The educational stage of the student.
@@ -27,8 +23,17 @@ Time of Collection: N/A
 10. Network Type: The quality of the network connection. (e.g., 2G, 3G, 4G)
 11. Flexibility Level: The student's adaptability to online education.
 
+# Provenance
+**Sources:**
+
+Primary Dataset
+
+**Collection Methodology:**
+
+Surveys
+
 # How to Use the Data
-You can download the dataset from this repository or clone it directly to your local environment. The dataset is in CSV format, making it easy to load into data analysis tools like Python or R.
+You can download the dataset from this repository or clone it directly to your local environment. The dataset is in CSV format, making it easy to load into data analysis tools like Python, R, or Excel.
 
 
 
