@@ -1,4 +1,4 @@
-# Student Adaptability Level in Online Learning
+# Students Adaptability Level in Online Learning
 
 # Description
 This dataset contains information about students' adaptability to online education based on factors such as their educational level, institution type, device type, financial condition, and internet access. The data helps in understanding how students from various backgrounds adapt to online learning environments, providing insights into how demographic and technological factors influence a student's ability to adapt to remote learning environments.
@@ -27,7 +27,7 @@ This dataset contains information about students' adaptability to online educati
 | Internet type                             | Internet Type                   | Type of internet connection      | Category    | Wifi, Mobile Data         |
 | Network Type                              | Network Type                    | Quality of network connection    | Category    | 2G, 3G, 4G                |
 | Class duration in hours                   | Class Duration                  | Duration of online classes       | Numeric     | 0, 1-3 , 3-6              |
-| Self LMS usage                            | Self LMS                        | Whether the student uses LMS independently     | Category    | Yes, No     |
+| Self LMS usage                            | Self LMs                        | Whether the student uses LMS independently     | Category    | Yes, No     |
 | Device type                               | Device                          | Device used for online learning  | Category    | Mobile, Tab, Computer     |
 | Adaptability level                        | Adaptivity Level                | The adaptability level to online education | Category | Low, Moderate, High |
 
