@@ -26,23 +26,10 @@ This dataset contains information about students' adaptability to online educati
 | Financial condition level                 | Financial Condition             | Financial status of the student  | Category    | Poor, Mid, Rich           |
 | Internet type                             | Internet Type                   | Type of internet connection      | Category    | Wifi, Mobile Data         |
 | Network Type                              | Network Type                    | Quality of network connection    | Category    | 2G, 3G, 4G                |
-| Class duration in hours                   | Class Duration                  | Duration of online classes       | Numeric     | 0, 1-3 hours, 3-6 hours   |
+| Class duration in hours                   | Class Duration                  | Duration of online classes       | Numeric     | 0, 1-3 , 3-6              |
 | Self LMS usage                            | Self LMS                        | Whether the student uses LMS independently     | Category    | Yes, No     |
 | Device type                               | Device                          | Device used for online learning  | Category    | Mobile, Tab, Computer     |
 | Adaptability level                        | Adaptivity Level                | The adaptability level to online education | Category | Low, Moderate, High |
-
-**Columns:**
-1. Education Level: The educational stage of the student.
-2. Institution Type: Whether the student studies at a private or public institution.
-3. Gender: The gender of the student.
-4. Age: The age of the student.
-5. Device: Device used for online learning (e.g., Mobile, Computer, Tab).
-6. IT Student: Whether the student is an IT student.
-7. Location: The student's location (e.g., Town, City).
-8. Financial Condition: The student's financial background.
-9. Internet Type: The type of internet connection used by the student.
-10. Network Type: The quality of the network connection. (e.g., 2G, 3G, 4G)
-11. Flexibility Level: The student's adaptability to online education.
 
 # Provenance
 **Sources:** Primary Dataset
@@ -55,11 +42,11 @@ This dataset contains information about students' adaptability to online educati
 You can download the dataset from this repository. The dataset is in CSV format, making it easy to load into data analysis tools like Python, R, or Excel.
 
 # License
-
+CC BY-SA 4.0
 
 # Citation
-
-
+* Suzan M., Samrin N.. (2022). Students Adaptability Level in Online Education. URL: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
+* Suzan M., Samrin N., Biswas A., Pramanik M.. (2021). Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches. DOI: 10.1109/ICCCNT51525.2021.9579741
 
 
 
