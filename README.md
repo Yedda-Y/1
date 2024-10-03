@@ -6,9 +6,10 @@ This dataset contains information about students' adaptability to online educati
 * Learning Analytics/ Performance in Online Course/ Student Adaptability/ Remote Learning/ Digital Education/ Virtual Class/ Educational Technology/ Internet Access/ Network Quality/ Device Usage/ Learning Flexibility
 
 **Methodology:**
+
 Data Collection Mode: N/A
-
-
+Taget Population: Students in carious educational institutions
+Time of Collection: N/A
 
 # Data Description
 **File Name:** students_adaptability_level_online_education.csv
